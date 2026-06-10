@@ -1,0 +1,88 @@
+
+Con todos los rasgos:
+
+Resultados del KNN. 
+Recall Score: [0.86666667 0.75      ] 
+F1 Score: [0.78787879 0.81081081]
+AUC-ROC: 0.8083333333333333 
+
+Resultados del Regresion Logistica. 
+Recall Score: [1.   0.75] 
+F1 Score: [0.85714286 0.85714286]
+AUC-ROC: 0.875 
+
+Resultados del MLP. 
+Recall Score: [0.8 0.9] 
+F1 Score: [0.82758621 0.87804878]
+AUC-ROC: 0.8500000000000001 
+
+Sin Diag Egreso 1:
+
+Resultados del KNN. 
+Recall Score: [0.86666667 0.75      ] 
+F1 Score: [0.78787879 0.81081081]
+AUC-ROC: 0.8083333333333333 
+
+Resultados del Regresion Logistica. 
+Recall Score: [0.66666667 0.7       ] 
+F1 Score: [0.64516129 0.71794872]
+AUC-ROC: 0.6833333333333332 
+
+Resultados del MLP. 
+Recall Score: [0.93333333 0.9       ] 
+F1 Score: [0.90322581 0.92307692]
+AUC-ROC: 0.9166666666666666 
+
+
+
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Resultados del KNN. 
+Recall Score: [0.86666667 0.8       ] 
+F1 Score: [0.8125     0.84210526]
+AUC-ROC: 0.8333333333333334 
+
+Resultados del Regresion Logistica. 
+Recall Score: [0.93333333 0.75      ] 
+F1 Score: [0.82352941 0.83333333]
+AUC-ROC: 0.8416666666666667 
+
+Resultados del MLP. 
+Recall Score: [0.93333333 0.85      ] 
+F1 Score: [0.875      0.89473684]
+AUC-ROC: 0.8916666666666666 
+
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Resultados del KNN. 
+Recall Score: [0.86666667 0.75      ] 
+F1 Score: [0.78787879 0.81081081]
+AUC-ROC: 0.8083333333333333 
+
+Resultados del Regresion Logistica. 
+Recall Score: [0.66666667 0.7       ] 
+F1 Score: [0.64516129 0.71794872]
+AUC-ROC: 0.6833333333333332 
+
+Resultados del MLP. 
+Recall Score: [0.93333333 0.9       ] 
+F1 Score: [0.90322581 0.92307692]
+AUC-ROC: 0.9166666666666666 
+
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Resultados del KNN. 
+Recall Score: [0.86666667 0.75      ] 
+F1 Score: [0.78787879 0.81081081]
+AUC-ROC: 0.8083333333333333 
+
+Resultados del Regresion Logistica. 
+Recall Score: [0.66666667 0.7       ] 
+F1 Score: [0.64516129 0.71794872]
+AUC-ROC: 0.6833333333333332 
+
+Resultados del MLP. 
+Recall Score: [0.93333333 0.9       ] 
+F1 Score: [0.90322581 0.92307692]
+AUC-ROC: 0.9166666666666666 
+

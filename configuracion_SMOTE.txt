@@ -1,0 +1,68 @@
+
+ 
+Con todos los rasgos:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'relu', 'alpha': 0.001, 'hidden_layer_sizes': (100,), 'max_iter': 200, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 1, 'penalty': 'l2', 'solver': 'liblinear'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (100,), 'max_iter': 300, 'solver': 'adam'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 1, 'penalty': 'l2', 'solver': 'liblinear'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (100,), 'max_iter': 300, 'solver': 'adam'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 20, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'max_iter': 300, 'solver': 'sgd'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 1, 'penalty': 'l2', 'solver': 'liblinear'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (100,), 'max_iter': 300, 'solver': 'adam'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 1, 'penalty': 'l2', 'solver': 'liblinear'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (100,), 'max_iter': 300, 'solver': 'adam'}
+ 

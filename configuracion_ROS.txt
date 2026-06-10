@@ -1,0 +1,348 @@
+Con todos los rasgos:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1:
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'distance'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'max_iter': 400, 'solver': 'sgd'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'logistic', 'alpha': 0.0001, 'hidden_layer_sizes': (100,), 'max_iter': 200, 'solver': 'sgd'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.001, 'hidden_layer_sizes': (50,), 'max_iter': 300, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'max_iter': 200, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'max_iter': 200, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'max_iter': 200, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'max_iter': 200, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Mejores parámetros del KNN.
+ {'algorithm': 'auto', 'leaf_size': 10, 'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}
+ 
+Mejores parámetros del Regresion Logistica.
+ {'C': 0.001, 'penalty': None, 'solver': 'newton-cg'}
+ 
+Mejores parámetros del MLP.
+ {'activation': 'tanh', 'alpha': 0.0001, 'hidden_layer_sizes': (50, 50), 'max_iter': 200, 'solver': 'lbfgs'}
+ 
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
+Sin Diag Egreso 1 y sin Diag Egreso 2
+
